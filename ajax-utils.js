@@ -29,7 +29,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Coursera-WebDev-JHU-Assignments/glyphicons-halflings-regular.ttf at master · faheemzunjani/Coursera-WebDev-JHU-Assignments · GitHub</title>
+  <title>Coursera-WebDev-JHU-Assignments/ajax-utils.js at master · faheemzunjani/Coursera-WebDev-JHU-Assignments · GitHub</title>
     <meta name="description" content="This repository contains my solutions to the Module - 2,3,4 and 5 Coding Assignments for HTML, CSS, JavaScript for Web Developers Course by Johns Hopkins University on Coursera. - faheemzunjani/Coursera-WebDev-JHU-Assignments">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -42,7 +42,7 @@
   
   
 
-  <meta name="request-id" content="F870:7932:AC6B3D:E09E3F:5EB4120F" data-pjax-transient="true"/><meta name="html-safe-nonce" content="7cf409c84f4d08bbfad8dc43cb1a16fb7b47215c" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9mYWhlZW16dW5qYW5pL0NvdXJzZXJhLVdlYkRldi1KSFUtQXNzaWdubWVudHMvdHJlZS9tYXN0ZXIvbW9kdWxlLTUtc29sdXRpb24vZm9udHMiLCJyZXF1ZXN0X2lkIjoiRjg3MDo3OTMyOkFDNkIzRDpFMDlFM0Y6NUVCNDEyMEYiLCJ2aXNpdG9yX2lkIjoiNDE4MzA3MjI2Njk3MjgyODE3OSIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGgtMSIsInJlZ2lvbl9yZW5kZXIiOiJhcC1zb3V0aC0xIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="c7c91ccf80d9d45b031ace39695b2bf5b2a4a29eec4482a7dccc3cf6a6757373" data-pjax-transient="true"/>
+  <meta name="request-id" content="F8C0:7AFC:ACEABF:E15FA2:5EB412E3" data-pjax-transient="true"/><meta name="html-safe-nonce" content="8fae5a9bbe88d2ebd6f986618ffa06ad835922b8" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9mYWhlZW16dW5qYW5pL0NvdXJzZXJhLVdlYkRldi1KSFUtQXNzaWdubWVudHMvdHJlZS9tYXN0ZXIvbW9kdWxlLTUtc29sdXRpb24vanMiLCJyZXF1ZXN0X2lkIjoiRjhDMDo3QUZDOkFDRUFCRjpFMTVGQTI6NUVCNDEyRTMiLCJ2aXNpdG9yX2lkIjoiMjg5NTc0NzI0Njk2NTY1ODM0MCIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGgtMSIsInJlZ2lvbl9yZW5kZXIiOiJhcC1zb3V0aC0xIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="b50a78fee0ec487b267f4df0f86f675c25587c4f780b9c9d62b1d3ef7ba634b1" data-pjax-transient="true"/>
 
 
 
@@ -89,7 +89,7 @@
   <meta name="octolytics-dimension-user_id" content="13855113" /><meta name="octolytics-dimension-user_login" content="faheemzunjani" /><meta name="octolytics-dimension-repository_id" content="53118461" /><meta name="octolytics-dimension-repository_nwo" content="faheemzunjani/Coursera-WebDev-JHU-Assignments" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="53118461" /><meta name="octolytics-dimension-repository_network_root_nwo" content="faheemzunjani/Coursera-WebDev-JHU-Assignments" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/fonts/glyphicons-halflings-regular.ttf" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -141,7 +141,7 @@
         <div class="d-flex flex-items-center">
             <a href="/join?source=header-repo"
               class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/fonts/glyphicons-halflings-regular.ttf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7099dc6aee4e3e797569be3b8212718f4b7fac2c203e6c2dc4b8efd30d4a2a68"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ebc079799fdd44533f573bfe1feb7cbb18bca2578759b0b7c8c02b87a1463d7d"
               data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
               Sign&nbsp;up
             </a>
@@ -288,7 +288,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="DSXn7R3IMwkjYmUastZkSTp+XLY3txGyg/whPiQCUCpQWHPFnXufNPhYtoRMZ76tomBo6t9tKul6NVblqg3nFw==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="9Om95wDuhQOH51d7wQZYSSC91mBdn+SYy5zsNX98fi+TLzkBwnvaYRsCFE2AlvpMy5f+4yC3K1NMCMNz5O/D7A==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -410,15 +410,15 @@
 
           </div>
 
-        <a href="/login?return_to=%2Ffaheemzunjani%2FCoursera-WebDev-JHU-Assignments%2Fblob%2Fmaster%2Fmodule-5-solution%2Ffonts%2Fglyphicons-halflings-regular.ttf"
+        <a href="/login?return_to=%2Ffaheemzunjani%2FCoursera-WebDev-JHU-Assignments%2Fblob%2Fmaster%2Fmodule-5-solution%2Fjs%2Fajax-utils.js"
           class="HeaderMenu-link no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/fonts/glyphicons-halflings-regular.ttf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="17031529e34e619d7b45139f5bbd462eba44faeb86157fee54c4f3cd3b3564ad"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="62e89bebb86f11a1a1aef5baa3867cafe4ad5e7c5d263179ed1f6692f63402f1"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign&nbsp;in
         </a>
           <a href="/join?source=header-repo&amp;source_repo=faheemzunjani%2FCoursera-WebDev-JHU-Assignments"
             class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/fonts/glyphicons-halflings-regular.ttf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="17031529e34e619d7b45139f5bbd462eba44faeb86157fee54c4f3cd3b3564ad"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="62e89bebb86f11a1a1aef5baa3867cafe4ad5e7c5d263179ed1f6692f63402f1"
             data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
             Sign&nbsp;up
           </a>
@@ -505,7 +505,7 @@
 
   <li>
     
-  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/fonts/glyphicons-halflings-regular.ttf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0141eb4bc797e88def4f364ec01b12ad0b334e60b93538a0d7ce1f8609a31953" href="/login?return_to=%2Ffaheemzunjani%2FCoursera-WebDev-JHU-Assignments">
+  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cbc2b49bc0ec6cb9376c60a0c767215635e390616f67cdd27eb2aa59dad4c6b6" href="/login?return_to=%2Ffaheemzunjani%2FCoursera-WebDev-JHU-Assignments">
     <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
     Watch
 </a>    <a class="social-count" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/watchers"
@@ -516,7 +516,7 @@
   </li>
 
   <li>
-        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:53118461,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/fonts/glyphicons-halflings-regular.ttf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="df7f03710e6061d10053d655a547caf324e1e81a8884b9700c8383ddd1c8625e" href="/login?return_to=%2Ffaheemzunjani%2FCoursera-WebDev-JHU-Assignments">
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:53118461,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d940e3e41b1a2a035d5e5dbb837a26bad5f23ffd0e9a0843c5927b05285568d5" href="/login?return_to=%2Ffaheemzunjani%2FCoursera-WebDev-JHU-Assignments">
       <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
 
       Star
@@ -529,7 +529,7 @@
   </li>
 
   <li>
-      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:53118461,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/fonts/glyphicons-halflings-regular.ttf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7c21d1cd1cde4a015308920dd2d09ced5472c9f19297253714e23e071b33af45" href="/login?return_to=%2Ffaheemzunjani%2FCoursera-WebDev-JHU-Assignments">
+      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:53118461,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="68c9fd0a23765d11633347178858641b6bfa3f04804eb91e0adafb435af846b4" href="/login?return_to=%2Ffaheemzunjani%2FCoursera-WebDev-JHU-Assignments">
         <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
         Fork
 </a>
@@ -672,9 +672,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/c6dbf2fdd1f52448a379cf262f4753259f1e1e10/module-5-solution/fonts/glyphicons-halflings-regular.ttf">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/c6dbf2fdd1f52448a379cf262f4753259f1e1e10/module-5-solution/js/ajax-utils.js">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:a7d8f7d44ae98540cb50849a38fcc389 -->
+    <!-- blob contrib key: blob_contributors:v22:b8251dfb93329410505e3c9e4d802598 -->
       <signup-prompt-controller class="signup-prompt-bg rounded-1" data-prompt="signup" hidden>
     <div class="signup-prompt p-4 text-center mb-4 rounded-1">
       <div class="position-relative">
@@ -688,7 +688,7 @@
         </button>
         <h3 class="pt-2">Join GitHub today</h3>
         <p class="col-6 mx-auto">GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.</p>
-        <a class="btn btn-primary" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/fonts/glyphicons-halflings-regular.ttf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a15b18f3d6c880e79bbcc2a76f2d65470e0cbd1213202a11432d5e7d2cbb1b8a" href="/join?source=prompt-blob-show&amp;source_repo=faheemzunjani%2FCoursera-WebDev-JHU-Assignments">Sign up</a>
+        <a class="btn btn-primary" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ff20baf67d7b3e8260bb154d15dc22e25b995b6f9dc693c88afd5a1cbc6d947a" href="/join?source=prompt-blob-show&amp;source_repo=faheemzunjani%2FCoursera-WebDev-JHU-Assignments">Sign up</a>
       </div>
     </div>
   </signup-prompt-controller>
@@ -706,7 +706,7 @@
     <span class="dropdown-caret"></span>
   </summary>
 
-  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/faheemzunjani/Coursera-WebDev-JHU-Assignments/refs/master/module-5-solution/fonts/glyphicons-halflings-regular.ttf?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/faheemzunjani/Coursera-WebDev-JHU-Assignments/refs/master/module-5-solution/js/ajax-utils.js?source_action=show&amp;source_controller=blob" preload>
     <div class="SelectMenu-modal">
       <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
         <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"></path></svg>
@@ -722,13 +722,68 @@
                 data-hotkey="t">
             Find file
           </a>
-          <clipboard-copy value="module-5-solution/fonts/glyphicons-halflings-regular.ttf" class="btn btn-sm BtnGroup-item">
+          <clipboard-copy value="module-5-solution/js/ajax-utils.js" class="btn btn-sm BtnGroup-item">
             Copy path
           </clipboard-copy>
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments"><span>Coursera-WebDev-JHU-Assignments</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/tree/master/module-5-solution"><span>module-5-solution</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/tree/master/module-5-solution/fonts"><span>fonts</span></a></span><span class="separator">/</span><strong class="final-path">glyphicons-halflings-regular.ttf</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments"><span>Coursera-WebDev-JHU-Assignments</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/tree/master/module-5-solution"><span>module-5-solution</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/tree/master/module-5-solution/js"><span>js</span></a></span><span class="separator">/</span><strong class="final-path">ajax-utils.js</strong>
+          <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+  <summary class="btn-link link-gray css-truncate" aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:53118461,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="71728707a1e366ae3564a73ca3687b5d74915c9e351723e222810fb2fd1f065a">
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"></path></svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+  </summary>
+  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:53118461,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3a9033ab2f50f9531069ca1d144c1d9e28ecb19b72a85a87095b61c684d1cd1b" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js#L8">
+              <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"></path></svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>getRequestObject</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:53118461,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3a9033ab2f50f9531069ca1d144c1d9e28ecb19b72a85a87095b61c684d1cd1b" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js#L24">
+              <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"></path></svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>sendGetRequest</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:53118461,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3a9033ab2f50f9531069ca1d144c1d9e28ecb19b72a85a87095b61c684d1cd1b" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js#L27">
+              <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"></path></svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>onreadystatechange</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:53118461,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3a9033ab2f50f9531069ca1d144c1d9e28ecb19b72a85a87095b61c684d1cd1b" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js#L41">
+              <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"></path></svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>handleResponse</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-primitive-dot text-green" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 8c0-2.2 1.8-4 4-4s4 1.8 4 4-1.8 4-4 4-4-1.8-4-4z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
@@ -738,7 +793,7 @@
               data-hotkey="t">
           Find file
         </a>
-        <clipboard-copy value="module-5-solution/fonts/glyphicons-halflings-regular.ttf" class="btn btn-sm BtnGroup-item">
+        <clipboard-copy value="module-5-solution/js/ajax-utils.js" class="btn btn-sm BtnGroup-item">
           Copy path
         </clipboard-copy>
       </div>
@@ -770,7 +825,7 @@
         <details-dialog
           class="Box Box--overlay d-flex flex-column anim-fade-in fast"
           aria-label="Users who have contributed to this file"
-          src="/faheemzunjani/Coursera-WebDev-JHU-Assignments/contributors-list/master/module-5-solution/fonts/glyphicons-halflings-regular.ttf" preload>
+          src="/faheemzunjani/Coursera-WebDev-JHU-Assignments/contributors-list/master/module-5-solution/js/ajax-utils.js" preload>
           <div class="Box-header">
             <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
               <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
@@ -796,14 +851,17 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-    44.3 KB
+      67 lines (53 sloc)
+      <span class="file-info-divider"></span>
+    1.48 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/raw/master/module-5-solution/fonts/glyphicons-halflings-regular.ttf">Download</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/commits/master/module-5-solution/fonts/glyphicons-halflings-regular.ttf">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/raw/master/module-5-solution/js/ajax-utils.js">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/blame/master/module-5-solution/js/ajax-utils.js">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/commits/master/module-5-solution/js/ajax-utils.js">History</a>
     </div>
 
 
@@ -816,12 +874,15 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/faheemzunjani/Coursera-WebDev-JHU-Assignments/delete/master/module-5-solution/fonts/glyphicons-halflings-regular.ttf" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="zmQzN9F7l/EJTHTRuSbq+q08RhIDXZJpsMD7k11XbGqbiMR1ObULf/OKyTVbjS246V3Vz6jlQyRpSR0TTCIA4w==" />
-            <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-              aria-label="You must be signed in to make or propose changes" data-disable-with>
-              <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"></path></svg>
-            </button>
-</form>    </div>
+          <button type="button" class="btn-octicon disabled tooltipped tooltipped-nw"
+            aria-label="You must be signed in to make or propose changes">
+            <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>
+          </button>
+          <button type="button" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+            aria-label="You must be signed in to make or propose changes">
+            <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"></path></svg>
+          </button>
+    </div>
   </div>
 </div>
 
@@ -829,10 +890,310 @@
 
       
 
-  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text ">
-      <div class="text-center p-3">
-          <a href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/fonts/glyphicons-halflings-regular.ttf?raw=true">View raw</a>
-      </div>
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-javascript ">
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>(</span><span class=pl-k>function</span> <span class=pl-kos>(</span><span class=pl-s1>global</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Set up a namespace for our utility</span></td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-k>var</span> <span class=pl-s1>ajaxUtils</span> <span class=pl-c1>=</span> <span class=pl-kos>{</span><span class=pl-kos>}</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Returns an HTTP request object</span></td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-k>function</span> <span class=pl-en>getRequestObject</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-smi>window</span><span class=pl-kos>.</span><span class=pl-c1>XMLHttpRequest</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>return</span> <span class=pl-kos>(</span><span class=pl-k>new</span> <span class=pl-v>XMLHttpRequest</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span> </td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>else</span> <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-smi>window</span><span class=pl-kos>.</span><span class=pl-c1>ActiveXObject</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">    <span class=pl-c>// For very old IE browsers (optional)</span></td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>return</span> <span class=pl-kos>(</span><span class=pl-k>new</span> <span class=pl-v>ActiveXObject</span><span class=pl-kos>(</span><span class=pl-s>&quot;Microsoft.XMLHTTP&quot;</span><span class=pl-kos>)</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span> </td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>else</span> <span class=pl-kos>{</span></td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>global</span><span class=pl-kos>.</span><span class=pl-en>alert</span><span class=pl-kos>(</span><span class=pl-s>&quot;Ajax is not supported!&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>return</span><span class=pl-kos>(</span>null<span class=pl-kos>)</span><span class=pl-kos>;</span> </td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span></td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Makes an Ajax GET request to &#39;requestUrl&#39;</span></td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>ajaxUtils</span><span class=pl-kos>.</span><span class=pl-en>sendGetRequest</span> <span class=pl-c1>=</span> </td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>requestUrl</span><span class=pl-kos>,</span> <span class=pl-s1>responseHandler</span><span class=pl-kos>,</span> <span class=pl-s1>isJsonResponse</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>var</span> <span class=pl-s1>request</span> <span class=pl-c1>=</span> <span class=pl-en>getRequestObject</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>request</span><span class=pl-kos>.</span><span class=pl-en>onreadystatechange</span> <span class=pl-c1>=</span> </td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span> </td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">        <span class=pl-en>handleResponse</span><span class=pl-kos>(</span><span class=pl-s1>request</span><span class=pl-kos>,</span> </td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">                       <span class=pl-s1>responseHandler</span><span class=pl-kos>,</span></td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">                       <span class=pl-s1>isJsonResponse</span><span class=pl-kos>)</span><span class=pl-kos>;</span> </td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>}</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>request</span><span class=pl-kos>.</span><span class=pl-en>open</span><span class=pl-kos>(</span><span class=pl-s>&quot;GET&quot;</span><span class=pl-kos>,</span> <span class=pl-s1>requestUrl</span><span class=pl-kos>,</span> <span class=pl-c1>true</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>request</span><span class=pl-kos>.</span><span class=pl-en>send</span><span class=pl-kos>(</span>null<span class=pl-kos>)</span><span class=pl-kos>;</span> <span class=pl-c>// for POST only</span></td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Only calls user provided &#39;responseHandler&#39;</span></td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// function if response is ready</span></td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// and not an error</span></td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class=pl-k>function</span> <span class=pl-en>handleResponse</span><span class=pl-kos>(</span><span class=pl-s1>request</span><span class=pl-kos>,</span></td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">                        <span class=pl-s1>responseHandler</span><span class=pl-kos>,</span></td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">                        <span class=pl-s1>isJsonResponse</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>request</span><span class=pl-kos>.</span><span class=pl-c1>readyState</span> <span class=pl-c1>==</span> <span class=pl-c1>4</span><span class=pl-kos>)</span> <span class=pl-c1>&amp;&amp;</span></td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">     <span class=pl-kos>(</span><span class=pl-s1>request</span><span class=pl-kos>.</span><span class=pl-c1>status</span> <span class=pl-c1>==</span> <span class=pl-c1>200</span><span class=pl-kos>)</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">    <span class=pl-c>// Default to isJsonResponse = true</span></td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>isJsonResponse</span> <span class=pl-c1>==</span> undefined<span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>isJsonResponse</span> <span class=pl-c1>=</span> <span class=pl-c1>true</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span></td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>isJsonResponse</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+      </tr>
+      <tr>
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>responseHandler</span><span class=pl-kos>(</span><span class=pl-c1>JSON</span><span class=pl-kos>.</span><span class=pl-en>parse</span><span class=pl-kos>(</span><span class=pl-s1>request</span><span class=pl-kos>.</span><span class=pl-c1>responseText</span><span class=pl-kos>)</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span></td>
+      </tr>
+      <tr>
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>else</span> <span class=pl-kos>{</span></td>
+      </tr>
+      <tr>
+        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>responseHandler</span><span class=pl-kos>(</span><span class=pl-s1>request</span><span class=pl-kos>.</span><span class=pl-c1>responseText</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span></td>
+      </tr>
+      <tr>
+        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span></td>
+      </tr>
+      <tr>
+        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
+      </tr>
+      <tr>
+        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
+        <td id="LC60" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
+        <td id="LC61" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
+        <td id="LC62" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Expose utility to the global object</span></td>
+      </tr>
+      <tr>
+        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
+        <td id="LC63" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>global</span><span class=pl-kos>.</span><span class=pl-c1>$ajaxUtils</span> <span class=pl-c1>=</span> <span class=pl-s1>ajaxUtils</span><span class=pl-kos>;</span></td>
+      </tr>
+      <tr>
+        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
+        <td id="LC64" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
+        <td id="LC65" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
+        <td id="LC66" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>(</span><span class=pl-smi>window</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1" aria-label="Inline file action toolbar">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm5 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM13 7.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0z"></path></svg>
+    </summary>
+    <details-menu>
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/blame/c6dbf2fdd1f52448a379cf262f4753259f1e1e10/module-5-solution/js/ajax-utils.js">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
     </div>
@@ -847,6 +1208,20 @@
         <button type="submit" class="btn" data-close-dialog>Go</button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/faheemzunjani/Coursera-WebDev-JHU-Assignments/find-symbols"
+     data-tagsearch-ref="master"
+     data-tagsearch-path="module-5-solution/js/ajax-utils.js"
+     data-tagsearch-lang="JavaScript"
+     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:53118461,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/faheemzunjani/Coursera-WebDev-JHU-Assignments/blob/master/module-5-solution/js/ajax-utils.js&quot;,&quot;user_id&quot;:null}}"
+     data-hydro-click-hmac="b6ba7aa53de8dbd836ec483785a70a82a1afac2e04f90e3c8bb0faf531730fa5">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box box-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 
